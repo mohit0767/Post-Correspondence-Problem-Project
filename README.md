@@ -18,14 +18,9 @@ Because PCP is **undecidable**, no general algorithm can determine a solution fo
 
 ---
 
-## 🚀 How to Run the Project
+## 🚀 Quick Start
 
-### Prerequisites
-Make sure you have a C++ compiler installed (e.g., `g++`).
-
-### Execution Steps
-1. Clone the repository:
-   ```bash
+```bash
 git clone [https://github.com/mohit0767/Post-Correspondence-Problem-Project.git](https://github.com/mohit0767/Post-Correspondence-Problem-Project.git)
 cd Post-Correspondence-Problem-Project
 g++ main.cpp -o pcp_simulator && ./pcp_simulator
