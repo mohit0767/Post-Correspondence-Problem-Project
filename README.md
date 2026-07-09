@@ -21,6 +21,6 @@ Because PCP is **undecidable**, no general algorithm can determine a solution fo
 ## 🚀 Quick Start
 
 ```bash
-git clone [https://github.com/mohit0767/Post-Correspondence-Problem-Project.git](https://github.com/mohit0767/Post-Correspondence-Problem-Project.git)
+git clone https://github.com/mohit0767/Post-Correspondence-Problem-Project.git
 cd Post-Correspondence-Problem-Project
 g++ main.cpp -o pcp_simulator && ./pcp_simulator
