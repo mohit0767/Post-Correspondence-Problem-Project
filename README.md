@@ -26,5 +26,6 @@ Make sure you have a C++ compiler installed (e.g., `g++`).
 ### Execution Steps
 1. Clone the repository:
    ```bash
-  git clone [https://github.com/mohit0767/Post-Correspondence-Problem-Project.git](https://github.com/mohit0767/Post-Correspondence-Problem-Project.git)
-  cd Post-Correspondence-Problem-Project
+git clone [https://github.com/mohit0767/Post-Correspondence-Problem-Project.git](https://github.com/mohit0767/Post-Correspondence-Problem-Project.git)
+cd Post-Correspondence-Problem-Project
+g++ main.cpp -o pcp_simulator && ./pcp_simulator
